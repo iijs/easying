@@ -1,0 +1,21 @@
+{
+  "name": "jQueryEasing",
+  "filename": "easying.js",
+  "version": "1.3",
+  "description": "项目简介",
+  "homepage": "http://gsgd.co.uk/sandbox/jquery/easing/",
+  "keywords": ["字体", "easying", "easying"],
+  "maintainers": [
+	{
+	  "name": " George McGinley Smith/ George McGinley Smith",
+	  "web": "http://gsgd.co.uk/sandbox/jquery/easing/",
+	  "mail": "2223137007@qq.com"
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://github.com/iijs/easying.js/"
+	}
+  ]
+}
